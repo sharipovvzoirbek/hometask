@@ -1,19 +1,8 @@
-def friends(our):
+def friends():
+    return '24'
+def school():
+    return 'music'
 
-
-    print(our)
-
-friends("Hawk and Miguel")
-
-
-def school(e):
-
-    print(e)
-
-school("27-Maktab")
-
-
-def another(its):
-    print(its)
-another("no idea")
+def another():
+    return "what is this"
 

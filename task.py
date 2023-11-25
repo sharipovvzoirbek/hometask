@@ -1,20 +1,8 @@
 def main(a):
-    
-    return "MIguel Diaz"
-
-
-
+    return "edit by Zaby"
 def name(b):
-
-    print(b)
-
-
-
-
-
+    return "hello"
 def age(c):
-
-    print(c)
-
+    return 'free Paletine'
 
 

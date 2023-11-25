@@ -1,21 +1,6 @@
-def books(a,b):
-
-    print(a,b)
-
-
-books("Roberto Kiasaki","Alchemist")
-
-
-def noutbooks(a,b,c):
-
-    print(a,b,c)
-
-noutbooks("Lenovo","macbook","Asus")
-
-
-def planets(a,b,c):
-
-
-    print(a,b,c)
-
-planets("Vinera","Mars","earth")
+def books():
+    return "call"
+def noutbooks():
+    return 'Elizabet 2 '
+def planets():
+    return 'Gitler'

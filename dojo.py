@@ -1,21 +1,6 @@
-def karate(dojo):
-
-    print(dojo)
-
-
-karate("Miyagido")
-
-
-def takewondo(dojo):
-
-    print(dojo)
-
-
-takewondo("Okinawa")
-
-
-def dojo(ck):
-
-    print(ck)
-
-dojo("Cobra Kai")
+def karate():
+    return "home alone"
+def takewondo():
+    return "hi"
+def dojo():
+    return "doza"

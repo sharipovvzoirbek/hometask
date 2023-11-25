@@ -1,17 +1,8 @@
-def us(text):
+def us():
+    return "am is are "
 
-    print(text)
-
-us(2**10)
-
-def math(qiymat,ans):
-
-    print(qiymat*ans)
-
-math(23*22,2)
-
-def alg(plus,minus):
-
-    print(plus**minus)
-
-alg(23,3)
+def math():
+    return 24+32
+  
+def alg():
+    return 15**2

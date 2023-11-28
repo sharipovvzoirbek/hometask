@@ -1,28 +1,12 @@
-from deem import info
-from buzz import comp
-from buzz import key
-from buzz import my
-from dedd import us
-from dedd import math 
-from dedd import alg
-from deem import info
-from deem import fun 
-from deem import fav
-from dojo import karate 
-from dojo import takewondo
-from dojo import dojo 
-from edit import main 
-from edit import info  
-from edit import about 
-from fizz import friends 
-from fizz import school 
-from fizz import another 
-from miyagido import books 
-from miyagido import noutbooks
-from miyagido import planets
-from task import main 
-from task import name 
-from task import age 
+from deem import info,fun,fav
+from buzz import comp,key,my
+from dedd import us,math,alg
+from dojo import karate ,takewondo,dojo
+from edit import main,info,about
+from fizz import friends,school,another
+from miyagido import books,noutbooks,planets 
+from task import main,name,age
+
 
 
 a = info()
